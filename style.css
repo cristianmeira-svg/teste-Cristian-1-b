@@ -1,0 +1,11 @@
+body{
+    background-color: red;
+}
+header{
+    background-color: aqua;
+    color: rgb(122, 193, 50);
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
